@@ -2,9 +2,12 @@
 
 An anonymised design operations case study about project covers, file organisation, shared status labels, and developer handoff.
 
+Prepared by Mohamed Nishaz  
+Product Designer/ UX
+
 ## Contents
 
-- `index.html`: self-contained responsive case study and article with interactive examples.
+- `index.html`: self-contained responsive case study with interactive examples.
 
 Open `index.html` in a browser. No installation or build is required.
 
@@ -14,8 +17,8 @@ The repository root is ready for static hosting such as GitHub Pages. No analyti
 
 ## Content
 
-Organisation, project, event, and personal names are fictional. Examples are recreated for the public case study. Benefits are described as intended outcomes, not measured results. The LinkedIn message has been removed; the article is retained.
+Organisation, project, event, and personal names in illustrative examples are fictional. The author credit identifies Mohamed Nishaz. Examples are recreated for the public case study. Benefits are described as intended outcomes, not measured results. The standalone article and LinkedIn message sections have been removed.
 
 ## Verification
 
-JavaScript syntax, internal links, element references, and removal of original identifying names were checked. Visual browser verification was unavailable in the creation environment.
+Internal section links and author placement were checked after the update. Visual browser verification was unavailable in the creation environment.
